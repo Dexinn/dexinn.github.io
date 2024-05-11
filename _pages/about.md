@@ -6,5 +6,5 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my homepage!
 欢迎来到我的主页！
-===
