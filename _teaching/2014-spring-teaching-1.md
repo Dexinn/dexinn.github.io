@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Shanghai Dachuan Architects"
 collection: teaching
-type: "Undergraduate course"
+type: "Assistant Architect"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Participate in the internship of architectural design throughout. The main
+res ponsibility is to assist the architect to collect preliminary data and design someprojects
