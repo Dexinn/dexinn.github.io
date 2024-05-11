@@ -21,7 +21,7 @@ repository               : "Dexinn/dexinn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "doggie.png"
+  avatar           : "doggie.jpg"
   name             : "Dexin Li"
   pronouns         : # example: "she/her"  
   bio              : "M.Res., Sustainable Energy and Building Technologies"
