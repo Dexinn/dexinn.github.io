@@ -3,6 +3,6 @@ title: 'ILAUD Shanghai 2019 workshop'
 date: 2019-11-01
 permalink: /posts/post3
 tags:
-  - Xi'an Jiaotong-Liverpool University
+  - Xian Jiaotong-Liverpool University
   - Architectural design participants
 ---
